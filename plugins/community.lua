@@ -14,7 +14,7 @@ return {
   -- { import = "astrocommunity.colorscheme.catppuccin" },
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
   -- { import = "astrocommunity.completion.cmp-cmdline" },
-  -- { import = "astrocommunity.media.drop-nvim" },
-  -- { import = "astrocommunity.pack.cpp" },
-  -- { import = "astrocommunity.utility.noice-nvim" },
+   { import = "astrocommunity.media.drop-nvim" },
+   { import = "astrocommunity.pack.cpp" },
+   { import = "astrocommunity.utility.noice-nvim" },
 }
