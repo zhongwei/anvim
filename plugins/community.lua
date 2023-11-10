@@ -14,6 +14,8 @@ return {
   -- { import = "astrocommunity.colorscheme.catppuccin" },
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
   -- { import = "astrocommunity.completion.cmp-cmdline" },
+  { import = "astrocommunity.markdown-and-latex.markdown-preview-nvim" },
+  { import = "astrocommunity.markdown-and-latex.glow-nvim" },
   { import = "astrocommunity.media.drop-nvim" },
   { import = "astrocommunity.pack.bash" },
   { import = "astrocommunity.pack.cpp" },
